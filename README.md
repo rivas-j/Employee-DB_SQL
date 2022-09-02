@@ -1,7 +1,6 @@
-# Overview of Pewlett Hackard Analysis
+# Overview of Employee Database Analysis
 
-
-Bobby’s manager at Pewlett Hackard needs our assistance preparing for the “silver tsunami” as many current employees reach retirement age. Using the provided CSV files containing troves of employee data, we utilized the power of SQL and PGAdmin to process that data and produce additional CSV files with the specific data the manager needs. Our goal in this exercise is to parse through those large files and isolate the retirement age employees to answer important logistical questions for the human resources department.
+The department manager needs our assistance preparing for the “silver tsunami” as many current employees reach retirement age. Using the provided CSV files containing troves of employee data, we utilized the power of SQL and PGAdmin to process that data and produce additional CSV files with the specific data the manager needs. Our goal in this exercise is to parse through those large files and isolate the retirement age employees to answer important logistical questions for the human resources department.
 
 # Results
 
