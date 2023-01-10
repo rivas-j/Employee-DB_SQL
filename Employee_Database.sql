@@ -1,5 +1,3 @@
--- CHALLENGE DELIVERABLE 1
-
 -- Create a new table of employees that are retirement age and their titles
 SELECT employees.emp_no,
 	employees.first_name,
@@ -38,8 +36,6 @@ ORDER BY count(title) DESC;
 SELECT * FROM retiring_titles;
 
 ---------------------------------------------------------------------------------------------------------------------------
-
--- CHALLENGE DELIVERABLE 2
 
 -- Create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program
 
