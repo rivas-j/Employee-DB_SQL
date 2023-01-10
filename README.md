@@ -1,15 +1,10 @@
-<!--- 
-Use Case: This readme template is designed for readable documentation of portfolio projects
-File Structure: Place this readme in the main project folder, make sure there is an images folder containing all screenshots for the image links to properly work
---->
-
 # Employee Database Built with PGAdmin and SQL
 
 <div align="center">
-    <img src=images/EmployeeDB_ERD.png>
+    <img src=resources/EmployeeDB_ERD.png>
 </div>
 
-## <div align="center">Short blurb describing what the tool does</div>
+## <div align="center">Build Employee Database with the Power of SQL and PGAdmin </div>
 
 <p align="center">
 <a href="#goals">Goals</a> &nbsp;&bull;&nbsp;
